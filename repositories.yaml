@@ -1,0 +1,63 @@
+# List of repositories that need to be indexed
+#
+# Please refer to repositories-example.yaml to fill out this configuration
+# file properly
+#
+
+# List of approved repos
+# Will be parsed and categorized as "approved" by the indexer
+approved:
+  - https://github.com/bobloy/Fox-V3/
+  - https://github.com/Jintaku/Jintaku-Cogs-V3/
+  - https://github.com/skeith/MayuYukirin/
+  - https://github.com/nmbook/FalcomBot-cogs/
+  - https://github.com/tmercswims/tmerc-cogs/
+  - https://github.com/zephyrkul/FluffyCogs/
+  - https://github.com/aikaterna/aikaterna-cogs/
+  - https://github.com/Redjumpman/Jumper-Plugins/
+  - https://github.com/TrustyJAID/Trusty-cogs/
+  - https://github.com/crossedfall/crossed-cogs
+  - https://github.com/Tobotimus/Tobo-Cogs
+  - https://github.com/Flame442/FlameCogs
+  - https://github.com/WildStriker/WildCogs
+  - https://github.com/dualmoon/Cogs.v3
+  - https://github.com/palmtree5/palmtree5-cogs
+  - https://github.com/designbyadrian/CogsByAdrian
+  - https://gitlab.com/Eragon5779/TechCogsV3
+  - https://github.com/PhasecoreX/PCXCogs
+  - https://github.com/Malarne/discord_cogs
+  - https://github.com/retke/Laggrons-Dumb-Cogs
+  - https://github.com/fixator10/Fixator10-Cogs
+  - https://github.com/flaree/Flare-Cogs
+  - https://github.com/elijabesu/SauriCogs
+  - https://github.com/PredaaA/predacogs
+  - https://github.com/NeuroAssassin/Toxic-Cogs
+  - https://github.com/kennnyshiwa/kennnyshiwa-cogs
+  - https://github.com/jack1142/JackCogs
+  - https://github.com/synrg/dronefly
+  - https://github.com/Dav-Git/Dav-Cogs
+  - https://gitlab.com/CrunchBangDev/cbd-cogs
+  - https://github.com/grayconcaves/FanCogs
+  - https://github.com/flapjax/FlapJack-Cogs
+  - https://github.com/Predeactor/Predeactor-Cogs
+  - https://github.com/phenom4n4n/phen-cogs
+  - https://github.com/SharkyTheKing/Sharky
+  - https://github.com/Twentysix26/x26-Cogs
+  - https://github.com/Kowlin/Sentinel
+  - https://github.com/yamikaitou/YamiCogs
+  - https://github.com/flaree/pokecord-red
+  - https://github.com/TheWyn/Wyn-RedV3Cogs
+
+# List of unapproved repos.
+# Will be parsed and categorized as "unapproved" by the indexer
+unapproved:
+  - https://github.com/baiumbg/baiumbg-Cogs
+  - https://github.com/tekulvw/Squid-Plugins@V3
+  - https://github.com/maxbooiii/maxcogs
+  - https://github.com/npc203/npc-cogs
+  - https://github.com/kreus7/kreusadacogs
+  - https://github.com/Obi-Wan3/OB13-Cogs
+
+# List of flagged cogs
+# Cogs present in this list will be ignored by the indexer
+flagged-cogs:
